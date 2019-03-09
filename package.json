@@ -1,0 +1,26 @@
+{
+  "name": "npm_twitterbot",
+  "version": "1.0.0",
+  "description": "Twitter bot that retweets, favs, follows, etc. on its own",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethantilley/Twitter-Bot.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot"
+  ],
+  "author": "Ethan Tilley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ethantilley/Twitter-Bot/issues"
+  },
+  "homepage": "https://github.com/ethantilley/Twitter-Bot#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
